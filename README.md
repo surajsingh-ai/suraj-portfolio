@@ -1,9 +1,6 @@
 https://gxhbynjv.manussite.space/
 
-This is the personal portfolio website of Suraj Singh, an aspiring AI & Data Engineering Professional. The website showcases his projects, skills, experience, and achievements.
-
-Features
-
+Welcome to my AI & Data Engineering portfolio, a showcase of my journey and expertise in building intelligent systems. From automating complex processes with AI to designing scalable data architectures, this collection highlights my hands-on experience, technical proficiency, and commitment to continuous learning in the evolving tech landscape."
 Responsive Design: Optimized for various devices and screen sizes.
 
 Interactive UI: Includes card effects, animations, and smooth scrolling.

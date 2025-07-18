@@ -1,30 +1,43 @@
-https://gxhbynjv.manussite.space/
+ Personal Portfolio – Suraj Singh
+This is the source code for my personal portfolio website, built to showcase my skills, projects, experience, and achievements as a Computer Science (AI) engineering student.
 
-Welcome to my AI & Data Engineering portfolio, a showcase of my journey and expertise in building intelligent systems. From automating complex processes with AI to designing scalable data architectures, this collection highlights my hands-on experience, technical proficiency, and commitment to continuous learning in the evolving tech landscape."
-Responsive Design: Optimized for various devices and screen sizes.
+🔗 Live Website: https://gxhbynjv.manussite.space
 
-Interactive UI: Includes card effects, animations, and smooth scrolling.
+📌 About
+This portfolio website highlights my academic journey, personal and professional projects, certifications, and contact details. It is fully responsive and optimized for both desktop and mobile viewing.
 
-Theme Toggle: Switch between Light, Dark, and System themes.
+🚀 Features
+🧠 About Me section with educational background and career goals
 
-Downloadable Resume: Easily download Suraj Singh's resume in PDF format.
+🛠️ Projects section featuring detailed demos and descriptions
 
-Project Showcase: Detailed view of AI/ML and Data Engineering projects with bulleted descriptions.
+💡 Skills section listing languages, tools, and technologies
 
-Contact Information: Quick access to LinkedIn, GitHub, Email, and Phone.
+🏆 Achievements including awards and internships
 
-Tech Stack
-Frontend: React.js
+📄 Downloadable Resume
 
-Styling: Tailwind CSS
+📬 Contact Section with social media and email links
 
-Animations: Framer Motion
-Icons: Lucide React
+🛠 Tech Stack
+Frontend: HTML, CSS, JavaScript
 
-Setup and Installation (for local development)
+Design: Responsive layout with modern UI principles
 
-Clone the repository:
-Navigate to the project directory:
-Install dependencies:
-Run the development server:
+Hosting: ManusSite (Static Hosting Platform)
+
+📁 Folder Structure
+pgsql
+Copy
+Edit
+portfolio/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── assets/
+│   ├── images/
+│   └── pdfs/
+└── README.md
 
